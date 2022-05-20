@@ -21,3 +21,6 @@
 
 ## ML vs DL
 * structured data vs unstructured data
+
+## configure VSCode to support jupyter notebook
+* Reference: https://techbrij.com/setup-tensorflow-jupyter-notebook-vscode-deep-learning
