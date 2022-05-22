@@ -28,3 +28,9 @@
 ## set_seed, get random number
 1. global-level: get same value in different session, but different value in same session
 2.  op level: different value in same session, but same value in differnt session
+
+## import attributes
+* Rank: the number of dimension, tf.ndim
+* shape: how many elements in each dimension? tf.shape
+* axis or dimension: a particular of a dimension, tf[0][1]
+* size: the total number of elements
