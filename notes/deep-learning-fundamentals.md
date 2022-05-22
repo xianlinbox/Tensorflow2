@@ -24,3 +24,7 @@
 
 ## configure VSCode to support jupyter notebook
 * Reference: https://techbrij.com/setup-tensorflow-jupyter-notebook-vscode-deep-learning
+
+## set_seed, get random number
+1. global-level: get same value in different session, but different value in same session
+2.  op level: different value in same session, but same value in differnt session
