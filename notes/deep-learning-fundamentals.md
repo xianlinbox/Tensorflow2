@@ -33,4 +33,7 @@
 * Rank: the number of dimension, tf.ndim
 * shape: how many elements in each dimension? tf.shape
 * axis or dimension: a particular of a dimension, tf[0][1]
-* size: the total number of elements
+* size: the total number of elements; tf.size(a)
+
+## Neural Networks Regression
+
