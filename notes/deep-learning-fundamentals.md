@@ -37,3 +37,11 @@
 
 ## Neural Networks Regression
 
+### Steps to create a model in tensorflow
+
+1. creating a model: define input, output and hidden layers 
+2. compiling a model:
+    * loss function: tell how wrong the model is
+    * optimizer: tell model how to improve the patterns
+    * evaluation metrics: interpret the performance of model
+3. fitting model: let the model find the patterns
