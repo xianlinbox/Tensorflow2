@@ -45,3 +45,9 @@
     * optimizer: tell model how to improve the patterns
     * evaluation metrics: interpret the performance of model
 3. fitting model: let the model find the patterns
+
+## ways to improve model
+
+1. During create: add more layers and change activation function of each layer
+2. During compiling: change the optimizer function or the learning rate
+3. During fit: train more, epoch
