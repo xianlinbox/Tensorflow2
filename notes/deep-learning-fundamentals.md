@@ -51,3 +51,10 @@
 1. During create: add more layers and change activation function of each layer
 2. During compiling: change the optimizer function or the learning rate
 3. During fit: train more, epoch
+
+## Evaluation Model
+
+### 3 datasets
+1. Training set: 80% data set
+2. Validation set: 10-15% data set
+3. Test set: 10-15% data set
