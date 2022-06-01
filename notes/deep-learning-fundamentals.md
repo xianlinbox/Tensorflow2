@@ -58,3 +58,6 @@
 1. Training set: 80% data set
 2. Validation set: 10-15% data set
 3. Test set: 10-15% data set
+
+### export Model
+1. model.save('file.h5'), then tf.keras.models.loadmodel(file)
