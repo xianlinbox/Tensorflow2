@@ -61,3 +61,6 @@
 
 ### export Model
 1. model.save('file.h5'), then tf.keras.models.loadmodel(file)
+
+### early stop
+* we can stop trainning when some metrics didn't improve anymore
