@@ -64,3 +64,6 @@
 
 ### early stop
 * we can stop trainning when some metrics didn't improve anymore
+
+### Linear & Non-Linear problem
+activation function (linear, sigmoid, relu)
